@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GD Spin Wheel · React Edition
 
 A fully-featured React conversion of the GD Spin Wheel application with responsive HTML5 Canvas spinning wheel, countdown timer with Web Audio API chime, structured GD pointers, and campus placement guidelines.
@@ -77,3 +78,7 @@ export default function Page() {
 ### Option 3: Double-Click `standalone.html`
 
 Open `standalone.html` directly in your browser without any terminal or node setup required.
+=======
+# gd_Wheel
+An Application to train your Group Discussion Skills
+>>>>>>> 71f7caf40a4333d670ea8fd7481075f09553b624
